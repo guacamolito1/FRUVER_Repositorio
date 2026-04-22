@@ -38,3 +38,5 @@ class Repartidor extends BaseController
         return redirect()->to('/repartidor');
     }
 }
+
+date(); 
