@@ -7,6 +7,8 @@
     <form action="<?= base_url('guarda_cliente') ?>" method="post">
         <label>Nombre:</label>
         <input type="text" name="nombre" required/> <br>
+        <label> Apellido Paterno:</label>
+        <input type="text" name="apellido_paterno" required/> <br>
         <label>Dirección:</label>
         <input type="text" name="direccion" required/> <br>
         <label>Teléfono:</label>
