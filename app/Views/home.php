@@ -7,7 +7,7 @@
 <body>
 <div id="icono"></div>
 <div class="w3-container w3-orange">
-  <h2>Pagina principal
+  <h2>Pagina principal</h2>
 </div>
 <a href="<?= base_url('cliente') ?>">Alta de clientes</a>
 <a href="<?= base_url('clientes') ?>">Lista de clientes</a>
